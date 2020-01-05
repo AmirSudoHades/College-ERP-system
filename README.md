@@ -1,2 +1,2 @@
 # College-ERP-system
-Djangobased CollegeERp system
+Django based College ERP system
